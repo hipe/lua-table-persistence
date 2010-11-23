@@ -1,0 +1,11 @@
+-- experimental and not yet implemented 'Rockfile' format
+-- this file specifies the various rocks that this lib is dependant upon.
+-- but at the time of this writing, the file is only informative and doesn't actually do anything.
+
+return {
+	groups = {
+		"test" = {
+			{ "lunatest", ">~ 0.9.1-1" }	
+		}
+	}
+}
