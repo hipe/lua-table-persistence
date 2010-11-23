@@ -1,3 +1,7 @@
+== Release 0.0.2 / 2010-11-23
+
+  * add tests
+
 == Release 0.0.1 / 2010-11-23
 
 	* everything exactly as the original author had it, nothing that it didn't, except this file
