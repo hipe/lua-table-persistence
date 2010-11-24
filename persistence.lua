@@ -181,6 +181,8 @@ writers = {
 		end;
 }
 
+return persistence
+
 --[[
  Copyright (c) 2010 Gerhard Roethlin
 
